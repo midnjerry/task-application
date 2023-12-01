@@ -28,7 +28,8 @@ export default {
 name: 'hello-world',
 data() {
   return {
-    msg: 'Task Application'
+    msg: 'Task Application',
+    count: 0
   }
 }
 }
